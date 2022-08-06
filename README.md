@@ -1,5 +1,5 @@
 # ANATOMIA DE HTML5
-Este documento muestra la `anatomía` del código HTML5 y `las partes con su respectivo significado` de la etiqueta y atributo.
+Este documento muestra la `anatomía` del código HTML5 y `las partes con su respectivo significado`.
 ## Antomía simple
 A continuación se muestra la anatomía simple de HTML5:
 ```bash
@@ -20,10 +20,11 @@ Antes de mencionar las partes y sus significados, entendamos que es `elemento`, 
 
 **A.** `Elemento:` conforman la suma de etiquetas (etiqueta de apertura, etiqueta de cierre) y el contenido.
 
-**B.** `Etiqueta:` conforman etiquetas de apertura (<...>) y de cierre (</...>), como se puede apreciar la etiqueta de cierre se diferencia con el aumento de slash (/). _(...) representa el nombre de etiqueta, puede ser cualquier otra etiqueta, como: p,h1,h2,h3..._
+**B.** `Etiqueta:` conforman etiquetas de apertura (<...>) y de cierre (</...>), como se puede apreciar la etiqueta de cierre se diferencia con el aumento de slash (/). _(...) representa el nombre de etiqueta, puede ser cualquier otra etiqueta, como: p,h1,h2,h3..._.
 
-**C.** `Atributo:`
+**C.** `Atributo:` determinan cierta información de la etiqueta, generalmente va asociado a un valor determinado y se escribe después de la etiqueta, seguido con un signo igual antes del carácter >, como se observa en la `imagen 1`.
 
+A continuación se muestra las etiquetas, elementos y atributos con sus respectivos significados:
 - La etiqueta `DOCTYPE` declara el tipo de documento, de esta forma señalamos que este documento es un documento HTML5:
 ```bash 
 <!DOCTYPE html>
