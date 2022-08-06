@@ -20,7 +20,7 @@ Antes de mencionar las partes y sus significados, entendamos que es `elemento`, 
 
 **A.** `Elemento:` conforman la suma de etiquetas (etiqueta de apertura, etiqueta de cierre) y el contenido.
 
-**B.** `Etiqueta:` conforman etiquetas de apertura <...> y de cierre </...>, como se puede apreciar la etiqueta de cierre se diferencia con el slash (/). _..., representa el nombre de etiqueta, puede ser cualquier otra etiqueta, como: p,h1,h2,h3..._
+**B.** `Etiqueta:` conforman etiquetas de apertura (<...>) y de cierre (</...>), como se puede apreciar la etiqueta de cierre se diferencia con el aumento de slash (/). _(...) representa el nombre de etiqueta, puede ser cualquier otra etiqueta, como: p,h1,h2,h3..._
 
 **C.** `Atributo:`
 
@@ -42,3 +42,4 @@ Antes de mencionar las partes y sus significados, entendamos que es `elemento`, 
 ```bash 
 <head> </head>
 ```
+
