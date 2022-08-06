@@ -39,8 +39,36 @@ A continuación se muestra las etiquetas, elementos y atributos con sus respecti
 ```bash 
 <!html lang="es"> </html>
 ```
+
 - El elemento `head` delimita la cabecera del documento:
 ```bash 
 <head> </head>
 ```
 
+- La etiqueta `meta` sirve para identificar y para mostrar en los buscadores las propiedades del documento como por ejemplo el autor, descripción, título, entre otros:
+> La `meta chartset` establece el tipo de comunicación del documento.
+```bash
+<meta charset="UTF-8">
+```
+
+> La siguiente `meta` permite al navegador mostrar las páginas webs, es decir que establece la compatibilidad de vista.
+```bash
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+```
+
+> La siguiente `meta` establece que el documento se mostrará en el tamaño del dispositivo, es decir que se adaptará al tamaño de una computadora, laptop, tablet, celular, entre otros.
+```bash
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+- La etiqueta `title` muestra el título de la página web:
+<title>Document</title>
+
+- El elemento `body` delimita el cuerpo del documento y contiene todo lo que se observa en el navegador. textos, vídeos, imágenes, audios, entre otros:
+```bash
+<body> </body>
+```
+
+- la función `main` es la área principal del contenido, es decir, es el punto de partida para la ejecución del programa:  
+```bash
+<main> </main>
+```
