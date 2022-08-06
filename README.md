@@ -1,5 +1,5 @@
 # ANATOMIA DE HTML5
-Este documento muestra la `anatomía` del código HTML5 y `las partes con su significado` de la etiqueta y atributo.
+Este documento muestra la `anatomía` del código HTML5 y `las partes con su respectivo significado` de la etiqueta y atributo.
 ## Antomía simple
 A continuación se muestra la anatomía simple de HTML5:
 ```bash
