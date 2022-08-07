@@ -23,6 +23,7 @@ Antes de mencionar las partes y sus significados, entendamos que es `elemento`, 
 **B.** `Etiqueta:` conforman etiquetas de apertura (<...>) y de cierre (</...>), como se puede apreciar la etiqueta de cierre se diferencia con el aumento de slash (/). _(...) representa el nombre de etiqueta, puede ser cualquier otra etiqueta, como: p,h1,h2,h3..._.
 
 **C.** `Atributo:` determinan cierta información de la etiqueta, generalmente va asociado a un valor determinado y se escribe después de la etiqueta, seguido con un signo igual antes del carácter >, como se observa en la `imagen 1`.
+![image](https://eliseovega.github.io/imgh/anatomia_atributo.svg)
 
 A continuación se muestra las etiquetas, elementos y atributos con sus respectivos significados:
 - La etiqueta `DOCTYPE` declara el tipo de documento, de esta forma señalamos que este documento es un documento HTML5:
@@ -61,8 +62,9 @@ A continuación se muestra las etiquetas, elementos y atributos con sus respecti
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 - La etiqueta `title` muestra el título de la página web:
-<title>Document</title>
-
+```bash
+<title>tituloDocumento</title>
+```
 - El elemento `body` delimita el cuerpo del documento y contiene todo lo que se observa en el navegador. textos, vídeos, imágenes, audios, entre otros:
 ```bash
 <body> </body>
@@ -71,4 +73,14 @@ A continuación se muestra las etiquetas, elementos y atributos con sus respecti
 - la función `main` es la área principal del contenido, es decir, es el punto de partida para la ejecución del programa:  
 ```bash
 <main> </main>
+```
+
+- Especifica la cabecera de la página, generalmente va el título, logo y más:  
+```bash
+<header> </header>
+```
+
+- la etiqueta `nav` delimita el menú de la página, en dónde se coloca enlaces internos para moverse entre las secciones del sitio web:  
+```bash
+<nav> </nav>
 ```
