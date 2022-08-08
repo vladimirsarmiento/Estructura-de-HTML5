@@ -84,3 +84,29 @@ A continuación se muestra las etiquetas, elementos y atributos con sus respecti
 ```bash
 <nav> </nav>
 ```
+
+##OTRAS ETIQUERAS BÁSICAS
+- la etiqueta `href` contiene un link de hoja de estilos externo:  
+```bash
+    <a href="https://github.com/vladimirsarmiento/Estructura-de HTML5/edit/main/README.md">Anatomia de HTML5</a>
+```
+
+- la etiqueta `section` engloba una seccipon de texto, imágenes y otros elementos que se relacionan entre si:  
+```bash
+    <section> </section>
+```
+
+- otra forma de dividir es con la etiqueta `div` para aplicar clases y modificación de estilos posteriormente:  
+```bash
+    <div> </div>
+```
+
+- La etiqueta `p` sirve para colocar conjunto de textos formando un párrafo:  
+```bash
+    <p> </p>
+```
+
+- La etiqueta `img` sirve para colocar una imagen en el documento mediante un enlace:  
+```bash
+<img src="https://www.fundacion-affinity.org/sites/default/files/los-10-sonidos-principales-del-perro.jpg" alt="">
+```
