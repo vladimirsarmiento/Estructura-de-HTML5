@@ -85,7 +85,7 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 <nav> </nav>
 ```
 
-## OTRAS ETIQUERAS BÁSICAS
+## OTRAS ETIQUETAS BÁSICAS
 - la etiqueta `href` contiene un link de hoja de estilos externo:  
 ```bash
     <a href="https://github.com/vladimirsarmiento/Estructura-de HTML5/edit/main/README.md">Anatomia de HTML5</a>
@@ -109,4 +109,25 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 - La etiqueta `img` sirve para colocar una imagen en el documento mediante un enlace:  
 ```bash
 <img src="https://www.fundacion-affinity.org/sites/default/files/los-10-sonidos-principales-del-perro.jpg" alt="">
+```
+- Podemos mencionar a otras etiquetas como:
+```bash
+<!--para una lista: -->
+<li> </li>
+
+<!--para una lista que no importe el orden-->
+<ul> </ul>
+
+<!--para una lista que si importe el orden-->
+<ol> </ol>
+```
+
+```bash
+<!--Para representar el encabezado de una página, puede ir de 1 al 6: -->
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
 ```
