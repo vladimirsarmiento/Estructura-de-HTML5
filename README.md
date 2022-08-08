@@ -18,7 +18,7 @@ A continuación se muestra la anatomía simple de HTML5:
 # PARTES Y SU SIGNIFICADO
 Antes de mencionar las partes y sus significados, entendamos que es `elemento`, `etiqueta` y `atributo`:
 
-**A.** `Elemento:` conforman la suma de etiquetas (etiqueta de apertura, etiqueta de cierre) y el contenido.
+**A.** `Elemento:` conforman la suma de etiquetas (etiqueta de apertura y etiqueta de cierre) y el contenido.
 
 **B.** `Etiqueta:` conforman etiquetas de apertura (<...>) y de cierre (</...>), como se puede apreciar la etiqueta de cierre se diferencia con el aumento de slash (/). _(...) representa el nombre de etiqueta, puede ser cualquier otra etiqueta, como: p,h1,h2,h3..._.
 
