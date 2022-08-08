@@ -85,7 +85,7 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 <nav> </nav>
 ```
 
-##OTRAS ETIQUERAS BÁSICAS
+## OTRAS ETIQUERAS BÁSICAS
 - la etiqueta `href` contiene un link de hoja de estilos externo:  
 ```bash
     <a href="https://github.com/vladimirsarmiento/Estructura-de HTML5/edit/main/README.md">Anatomia de HTML5</a>
