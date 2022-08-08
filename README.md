@@ -132,5 +132,5 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 <h6> </h6>
 ```
 
-Si desea más información sobre las etiquetas de HTML5 ingrese [AQUÍ](https://www.brandominus.com/manuales/manual_html5.pdf)
+Si desea más información sobre las etiquetas de HTML5 ingrese `[AQUÍ]`(https://www.brandominus.com/manuales/manual_html5.pdf)
 
