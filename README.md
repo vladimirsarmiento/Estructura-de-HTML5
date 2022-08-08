@@ -1,7 +1,7 @@
 # ANATOMIA DE HTML5
 Este documento muestra la `anatomía` del código HTML5 y `las partes con su respectivo significado`.
 ## Antomía simple
-A continuación se muestra la anatomía simple de HTML5:
+A continuación, se muestra la anatomía simple de HTML5:
 ```bash
 <!DOCTYPE html>
 <html lang="es">
@@ -25,7 +25,7 @@ Antes de mencionar las partes y sus significados, entendamos que es `elemento`, 
 **C.** `Atributo:` determinan cierta información de la etiqueta, generalmente va asociado a un valor determinado y se escribe después de la etiqueta, seguido con un signo igual antes del carácter >, como se observa en la `imagen 1`.
 ![image](https://eliseovega.github.io/imgh/anatomia_atributo.svg)
 
-A continuación se muestra las etiquetas, elementos y atributos con sus respectivos significados:
+A continuación, se muestra las etiquetas, elementos y atributos con sus respectivos significados:
 - La etiqueta `DOCTYPE` declara el tipo de documento, de esta forma señalamos que este documento es un documento HTML5:
 ```bash 
 <!DOCTYPE html>
@@ -70,7 +70,7 @@ A continuación se muestra las etiquetas, elementos y atributos con sus respecti
 <body> </body>
 ```
 
-- la función `main` es la área principal del contenido, es decir, es el punto de partida para la ejecución del programa:  
+- la función `main` es el área principal del contenido, es decir, es el punto de partida para la ejecución del programa:  
 ```bash
 <main> </main>
 ```
@@ -91,7 +91,7 @@ A continuación se muestra las etiquetas, elementos y atributos con sus respecti
     <a href="https://github.com/vladimirsarmiento/Estructura-de HTML5/edit/main/README.md">Anatomia de HTML5</a>
 ```
 
-- la etiqueta `section` engloba una seccipon de texto, imágenes y otros elementos que se relacionan entre si:  
+- la etiqueta `section` engloba una sección de texto, imágenes y otros elementos que se relacionan entre si:  
 ```bash
     <section> </section>
 ```
