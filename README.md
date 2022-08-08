@@ -131,3 +131,6 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 <h5> </h5>
 <h6> </h6>
 ```
+
+[Más información sobre etiquetas: ](https://www.brandominus.com/manuales/manual_html5.pdf)
+
