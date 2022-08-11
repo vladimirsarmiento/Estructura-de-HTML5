@@ -33,7 +33,7 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 
 - El elemento `html` delimita el documento HTML:
 ```bash 
-<html> #.... </html>
+<html>  </html>
 ```
 
 - El atributo `lang` indica el lenguaje del contenido del código:
