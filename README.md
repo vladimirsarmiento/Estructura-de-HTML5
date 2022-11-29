@@ -88,7 +88,7 @@ A continuación, se muestra las etiquetas, elementos y atributos con sus respect
 ## OTRAS ETIQUETAS BÁSICAS
 - la etiqueta `href` contiene un link de hoja de estilos externo:  
 ```bash
-    <a href="https://github.com/vladimirsarmiento/Estructura-de HTML5">Anatomia de HTML5"</a>
+    <a href="https://github.com/vladimirsarmiento/Estructura-de-HTML5/blob/main/README.md">Anatomia de HTML5"</a>
 ```
 
 - la etiqueta `section` engloba una sección de texto, imágenes y otros elementos que se relacionan entre si:  
